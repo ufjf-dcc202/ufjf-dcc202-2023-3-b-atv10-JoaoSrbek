@@ -13,7 +13,7 @@ function setJoao(valor){
         joao=0;
     }
 }
-function setMaria(){
+function setMaria(valor){
     if(valor>0){
         maria=valor;
     }else{
